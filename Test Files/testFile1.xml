@@ -1,0 +1,22 @@
+<CONFIGURATION>
+    <NETWORK>
+        <NET1 IP_ADDRESS="192.168.0.1" NETMASK="255.255.255.0" PROTOCOL="FTP">
+            <USER ID="1"/>
+        </NET1>
+        <NET2 IP_ADDRESS="192.168.0.3" NETMASK="255.255.255.0" PROTOCOL="FTP">
+            <USER ID="2"/>
+        </NET2>
+        <NET3 IP_ADDRESS="192.168.0.4" NETMASK="255.255.255.0" PROTOCOL="FTP">
+            <USER ID="3"/>
+        </NET3>
+    </NETWORK>
+    <SENSORS>
+        <SENSOR1 START_TIME="2" MAX="54"/>
+        <SENSOR2 START_TIME="4" MAX="23"/>
+        <SENSOR3 START_TIME="6" MAX="10"/>
+    </SENSORS>
+    <REFRESH RATE="20"/>
+</CONFIGURATION>
+
+
+

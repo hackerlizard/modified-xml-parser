@@ -1,0 +1,17 @@
+
+<CONFIGURATION>
+        <FOO/>
+                <DATE DAY="2"/>
+    <POWER></POWER>
+  <BAR Z="">
+                    <BAZ>   </BAZ>
+  </BAR>
+  <A/>
+  <NETWORKING
+        IP_ADDRESS="192.168.0.1"
+    NETMASK="255.255.255.0"
+  />
+</CONFIGURATION>
+
+
+
